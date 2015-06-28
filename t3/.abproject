@@ -1,0 +1,45 @@
+{
+  "ProjectName": "t3",
+  "ProjectGuid": "927f70af-9442-4e23-a4ed-71c2d20171e0",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.t3",
+  "DisplayName": "t3",
+  "Author": "",
+  "Description": "t3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{87ad6590-730b-40af-b25b-7cf0fb03d543}",
+  "WP8ProductID": "{f2e7b12b-9381-4103-96ee-eb1a9fdcb4ef}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.t3",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
