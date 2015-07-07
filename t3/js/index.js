@@ -37,7 +37,7 @@ var app = {
        // navigator.splashscreen.hide();
         
         //navigator.app.loadUrl('http://ya.ru', { openExternal:true });
-        window.location.href = "http://ya.ru";
+        window.location.href = "http://sevspace.ru/app/index.php";
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
